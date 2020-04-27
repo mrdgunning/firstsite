@@ -1,0 +1,147 @@
+body {
+  margin: auto;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  margin-top: auto;
+  font-size: 60px;
+  font-family: 'Amiri', serif;
+  color: #84a9ac;
+}
+
+h2 {
+  font-family: 'Amiri', serif;
+  color: #323232;
+  font-size: 35px;
+  padding-top: 10px;
+
+}
+
+h3 {
+  font-family: 'Amiri', serif;
+  color: #000839;
+
+
+}
+
+p {
+  color: #323232;
+  line-height: 2;
+}
+hr {
+  width: 7%;
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: #DAE1E7;
+  margin-top: 50px;
+}
+
+a {
+  color: #1e62d0;
+  font-family: Montserrat, sans-serif;
+  margin: 10px 10px 20px;
+  text-decoration: none;
+  }
+
+  a:hover {
+    color: #DAE1E7;
+  }
+.top-container {
+  background-color: #DAE1E7;
+  position: relative;
+}
+
+.top-cloud {
+  position: relative;
+  left: 400px;
+  top: 80px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 200px;
+  left: 100px;
+}
+.middle-container {
+  position:relative;
+  margin: auto;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+.computer {
+  width: 25%;
+  border-radius: 50%;
+  margin-right: 20px;
+  float: left;
+}
+
+.chillies {
+  width: 25%;
+  border-radius: 50%;
+  margin-right: 20px;
+  float: right;
+}
+
+.skill-row1 {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+.skill-row2 {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+  }
+.skill-row6 {
+  margin-bottom: 30px;
+}
+.bottom-container {
+  background-color: #84a9ac;
+  margin-top: auto;
+  padding: 50px 0 20px;
+
+}
+.contact-paragraph {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.copyright {
+  color: #DAE1E7;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.btn {
+ box-shadow:inset 0 1px 0 0 #97c4fe;
+ background:linear-gradient(to bottom, #3d94f6 5%, #1e62d0 100%);
+ background-color:#3d94f6;
+ border-radius:6px;
+ border:1px solid #337fed;
+ display:inline-block;
+ cursor:pointer;
+ color:#ffffff;
+ font-family: 'Montserrat', sans-serif;
+ font-size:15px;
+ font-weight:bold;
+ padding:6px 24px;
+ text-decoration:none;
+ text-shadow:0 1px 0 #1570cd;
+}
+.btn:hover {
+ background:linear-gradient(to bottom, #1e62d0 5%, #3d94f6 100%);
+ background-color:#1e62d0;
+}
+.btn:active {
+ position:relative;
+ top:1px;
+}
+.footer-link {
+  cursor: help;
+}
+
+/***********cursor: grab;font-family: 'Amiri', serif;    #00A8CC#005082#FFAC41#FF1E56#323232font-family: 'Montserrat', sans-serif; *************/
